@@ -23,6 +23,7 @@
   "dependencies": {
     "babel-core": "^6.26.3",
     "lodash": "^4.17.21",
+    "query-string": "^7.0.1",
     "three": "^0.1.0",
     "two": "^0.1.0"
   },
