@@ -12,6 +12,7 @@
   "dependencies": {
     "babel-core": "^6.26.3",
     "lodash": "^4.17.21",
+    "query-string": "^7.0.1",
     "two": "^0.1.0"
   },
   "gitHead": "0ab5b41d3cdac20e26e0b1c415627c7f8cc3babf"
