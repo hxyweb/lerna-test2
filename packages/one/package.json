@@ -1,0 +1,27 @@
+{
+  "name": "one",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "xinyuan.he01 <xinyuan.he01@liulishuo.com>",
+  "license": "ISC",
+  "homepage": "",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://npm-registry.llsengineer.com"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "three": "^1.0.0"
+  }
+}
