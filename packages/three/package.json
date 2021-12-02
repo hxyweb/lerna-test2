@@ -1,6 +1,6 @@
 {
   "name": "three",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.26.3",
-    "two": "^1.0.0"
+    "two": "^0.0.1"
   }
 }

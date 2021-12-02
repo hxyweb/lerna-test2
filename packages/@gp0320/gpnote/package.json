@@ -1,6 +1,6 @@
 {
   "name": "gpnote",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "xinyuan.he01 <xinyuan.he01@liulishuo.com>",
   "homepage": "",
@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "babel-core": "^6.26.3",
-    "three": "^1.0.0",
-    "two": "^1.0.0"
+    "three": "^0.0.1",
+    "two": "^0.0.1"
   }
 }
